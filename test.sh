@@ -1,5 +1,3 @@
 #!/bin/bash
 
-echo linux_test
-
-
+echo slack test
