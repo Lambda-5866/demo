@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo slack test
+echo slack test2
