@@ -1,6 +1,6 @@
 #!/bin/bash
 msg=$1
-t=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
+t=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
 
 git remote add origin https://github.com/Lambda-5866/demo.git
 git add .
